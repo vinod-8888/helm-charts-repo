@@ -11,4 +11,14 @@ entries:
     urls:
     - https://github.com/vinod-8888/helm-charts-repo/releases/download/myfirstchart-0.2.0/myfirstchart-0.2.0.tgz
     version: 0.2.0
-generated: "2023-12-15T15:21:21.488779699Z"
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-12-15T15:28:56.923898786Z"
+    description: A Helm chart for Kubernetes
+    digest: e9f202626a2f3f3192edd7e5e6c14f34d50a87fdf7ce52ca179bb6cfe2e34710
+    name: myfirstchart
+    type: application
+    urls:
+    - https://github.com/vinod-8888/helm-charts-repo/releases/download/myfirstchart-0.1.0/myfirstchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-15T15:28:56.923908054Z"
